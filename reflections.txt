@@ -1,9 +1,13 @@
 You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
   * What new skills have you learned?
+    None yet :). Converting mockups to site designs is already one of my skillsets.
+
   * What has been easy?
+    Everything. :)
+
   * What has been difficult?
+    Not really difficult, but I did have to lookup the HTML element for strikethrough. Can't think of the last time I had to use it.
+
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
-
----
-
-Your response goes here!
+    I used a web search to find out about the <s> element that took me to the MDN wiki.
